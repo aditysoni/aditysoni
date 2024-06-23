@@ -27,9 +27,7 @@
 
 Then, I stumbled upon Bitcoin. My goofy mind led me to explore blockchain, and I realized there was nothing quite like it. Like who offers loan without collateral and gives you so much power without giving you all , provided the protocol isn't compromised (talk about living on the edge). Going deep into the protocols , I got a project on real-world tokenization, which became a research project in college.
 
-Next, I encountered the world of GenAI, recognizing that blockchain and AI are set to revolutionize the tech landscape together (like Batman and Robin, but with fewer capes and more algorithms). Every day, I deepen my knowledge by learning new technologies, embedding myself further into the tech world.
-
- I'm always eager to engage in discussions about new ideas and emerging technologies, constantly seeking ways to push the boundaries of what's possible – because who needs limits when you have infinite loops?
+I'm always eager to engage in discussions about new ideas and emerging technologies, constantly seeking ways to push the boundaries of what's possible – because who needs limits when you have infinite loops?
 
 
 
