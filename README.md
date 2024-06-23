@@ -23,11 +23,13 @@
 ---
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: My journey began during the COVID era, when I had plenty of time to explore what was happening in the tech world – and avoid making yet another sourdough starter. Little did I know what my destiny would be. I started by creating web applications as a MERN developer in college, dabbling with Kafka, and experimenting with in-memory storage like Redis (because sometimes, you just need data faster than instant noodles). I debated whether NoSQL or SQL was better (spoiler: it's like choosing between pizza and momos – both are amazing). Then, I discovered Docker, putting my applications in containers and delivering them directly using something called pipelines (not the kind that need plumbers, thankfully).
 
-- :seedling: Exploring HFT and making arbitrage bots.
+Then, I stumbled upon Bitcoin. My goofy mind led me to explore blockchain, and I realized there was nothing quite like it. Like who offers loan without collateral and gives you so much power without giving you all , provided the protocol isn't compromised (talk about living on the edge). Going deep into the protocols , I got a project on real-world tokenization, which became a research project in college.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+Next, I encountered the world of GenAI, recognizing that blockchain and AI are set to revolutionize the tech landscape together (like Batman and Robin, but with fewer capes and more algorithms). Every day, I deepen my knowledge by learning new technologies, embedding myself further into the tech world.
+
+ I'm always eager to engage in discussions about new ideas and emerging technologies, constantly seeking ways to push the boundaries of what's possible – because who needs limits when you have infinite loops?
 
 
 
