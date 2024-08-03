@@ -20,6 +20,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+###Tech Stack :
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.Js-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React.Js-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.Js-F16822?style=flat&logo=web3.js&logoColor=white)
 ---
 ### :woman_technologist: About Me :
 
