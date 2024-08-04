@@ -24,9 +24,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?style=flat&logo=node.js&logoColor=white)  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.Js-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React.Js-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.Js-F16822?style=flat&logo=web3.js&logoColor=white)
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditysoni&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditysoni&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=495)<br/>
 ### :woman_technologist: About Me :
 
  My journey began during the COVID era, when I had plenty of time to explore what was happening in the tech world – and avoid making yet another sourdough starter. Little did I know what my destiny would be. I started by creating web applications as a MERN developer in college, dabbling with Kafka, and experimenting with in-memory storage like Redis (because sometimes, you just need data faster than instant noodles). I debated whether NoSQL or SQL was better (spoiler: it's like choosing between pizza and momos – both are amazing). Then, I discovered Docker, putting my applications in containers and delivering them directly using something called pipelines (not the kind that need plumbers, thankfully).
